@@ -1,10 +1,10 @@
 # 👋 Hey there, I'm Shivshankar Ghyar
 
 🎓 **Third-Year Computer Engineering Student** at MITAOE, Pune  
-📊 **CGPA**: 8.7  
+📊 **CGPA**: 8.91  
 💼 **DevOps & Fullstack Developer** | DSA in Java | AIML Enthusiast  
 🏆 Winner: Technodium 2025 | Finalist: WCE Hackathon & Technovate Ideathon  
-🎯 Intern @ Career Credentials (Super30) | AICTE AWS Virtual Internship  
+🎯 Software Engineer Intern @ Surveyaan |  MITAOE [SUPER30]
 
 🚀 I love building real-time applications, solving real-world problems, and actively contributing to tech communities.
 
@@ -55,7 +55,8 @@
 - 🥈 **Finalist** – WCE National Hackathon  
 - 🧠 **Top 5 Finalist** – Technovate Ideathon  
 - 🎓 **AICTE AWS Cloud Virtual Internship**  
-- 👨‍🏫 Intern @ Career Credentials (Super30 Program)
+- 👨‍🏫 Software Engineer Intern @Surveyaan |Intern @ Career Credentials (Super30 Program)
+- Solved 220+ Problems on Leetcode
 
 ---
 
