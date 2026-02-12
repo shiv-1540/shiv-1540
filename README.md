@@ -52,14 +52,17 @@
 ## 🏆 Achievements
 
 - 🥇 **Technodium 2025 Winner**  
-- 🥈 **Finalist** – WCE National Hackathon  
-- 🧠 **Top 5 Finalist** – Technovate Ideathon  
-- 🎓 **Internships**
-             - Career Crednetials >>Fullstack Developer Intern [3Months]
-             - Surveyaan >> SDE Intern [15Jun - Currently here]
-                     
-- 👨‍🏫 Software Engineer Intern @Surveyaan |Intern @ Career Credentials (Super30 Program)
-- Solved 580+ Problems on Leetcode
+- 🥈 **Finalist – WCE National Hackathon**  
+- 🧠 **Top 5 Finalist – Technovate Ideathon**  
+- 💻 Solved **580+ Problems on LeetCode**
+
+---
+
+## 💼 Internships & Experience
+
+- 👨‍💻 **Software Engineer Intern – Surveyaan** *(15 June 2025 – Present)*  
+
+- 🌐 **Full Stack Developer Intern – Career Credentials (Super30 Program)** *(3 Months)*
 
 ---
 
