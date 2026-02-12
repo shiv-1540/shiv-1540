@@ -62,7 +62,7 @@
 
 - 👨‍💻 **Software Engineer Intern – Surveyaan** *(15 June 2025 – Present)*  
 
-- 🌐 **Full Stack Developer Intern – Career Credentials (Super30 Program)** *(3 Months)*
+- 🌐 **Full Stack Developer Intern – Career Credentials** *(3 Months)*
 
 ---
 
